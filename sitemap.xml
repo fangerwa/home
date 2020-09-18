@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/links/</loc>
-    <lastmod>2019-04-20T23:10:44+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-09-18T22:06:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-04-20T23:08:32+08:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2020-09-18T22:06:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/poetry001/</loc>
+    <lastmod>2020-09-18T22:06:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/three_line_poetry/</loc>
+    <lastmod>2020-09-18T21:46:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
+    <lastmod>2019-04-20T23:10:44+08:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +49,6 @@
   
   <url>
     <loc>/series/golang/</loc>
-    <lastmod>2019-04-11T23:36:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
     <lastmod>2019-04-11T23:36:51+08:00</lastmod>
   </url>
   
